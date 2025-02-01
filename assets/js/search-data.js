@@ -499,21 +499,21 @@ ninja.data = [{
         title: 'Facebook',
         section: 'Socials',
         handler: () => {
-          window.open("https://facebook.com/https://www.facebook.com/sadegh.maghareh/", "_blank");
+          window.open("https://facebook.com/sadegh.maghareh", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/msmsadegh", "_blank");
+          window.open("https://github.com/msmsadegh", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-sadegh-maghareh-89874912b/", "_blank");
+          window.open("https://www.linkedin.com/in/mohammad-sadegh-maghareh-89874912b", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -527,7 +527,7 @@ ninja.data = [{
         title: 'telegram',
         section: 'Socials',
         handler: () => {
-          window.open("https://telegram.me/https://web.telegram.org/a/#255853791", "_blank");
+          window.open("https://telegram.me/255853791", "_blank");
         },
       },{
       id: 'light-theme',
