@@ -1,7 +1,7 @@
 ---
-layout: academic-cv
+layout: cv
 permalink: /cv/
-title: academic-cv
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: CV_Maghareh_.pdf # you can also use external links here
