@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>CS Department</a>| Amirkabir University of Technology.
+subtitle: <a href='https://aut.ac.ir/index.php?sid=1&slc_lang=en'>CS Department</a> | <a href='https://aut.ac.ir/'>Amirkabir University of Technology.</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>+98 21 8870 93 22 (117)</p>
+    <p>Motahari street</p>
     <p>Tehran, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computer science researcher and a research associate at Shahid Beheshti University (SBU) in the Neuroengineering Lab under the supervision of Dr. Reza Lashgari. My research primarily focuses on computer vision, deep learning, and computational neuroscience. I am also actively involved in AI-driven biomedical imaging and smart contract optimization.
+I am a computer science researcher and a research associate at <a href='https://en.sbu.ac.ir/'>Shahid Beheshti University (SBU)</a> in the <a href='https://enimsat.sbu.ac.ir/neuroscience-and-neuroengineering/'>Neuroengineering Lab</a> under the supervision of <a href= 'https://www.ipm.ir/personalinfo.jsp?PeopleCode=IP0400047' >Dr. Reza Lashgari</a>. My research primarily focuses on computer vision, deep learning, and computational neuroscience. I am also actively involved in AI-driven biomedical imaging and smart contract optimization.
 
-Previously, I completed my M.Sc. in Computer Science at Amirkabir University of Technology (AUT), where I worked on gas optimization in smart contracts using program analysis. My bachelor’s degree is from Shiraz University, where I specialized in artificial intelligence and software engineering.
+Previously, I completed my M.Sc. in Computer Science at Amirkabir University of Technology (AUT), where I worked on gas optimization in smart contracts using program analysis under the supervision of <a href='https://aut.ac.ir/cv/2340/Ali%20Mohades%20Khorasani'>Dr. Ali Mohades</a>. My bachelor’s degree is from <a href= 'https://cse.shirazu.ac.ir/> CSE department</a> at <a href='https://shirazu.ac.ir/en/home'>Shiraz University</a>, where I specialized in artificial intelligence and software engineering.
 
 I have also collaborated with international research teams, including a project with the University of Utah, where I contributed to brain-wide input mapping of inhibitory neurons in the visual cortex.
