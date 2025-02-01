@@ -1,10 +1,10 @@
 ---
-layout: academic-cv
+layout: industry-cv
 permalink: /cv/
-title: academic-cv
+title: industry-cv
 nav: true
 nav_order: 5
-cv_pdf: CV_Maghareh_.pdf # you can also use external links here
+cv_pdf: Mohammad-Sadegh-Maghareh-Work-Resume.pdf # you can also use external links here
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
