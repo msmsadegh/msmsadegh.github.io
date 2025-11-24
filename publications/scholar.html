@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Google Scholar Sync"
+permalink: /scholar/
+---
+
+<h2>Google Scholar Synced Publications</h2>
+
+<ul>
+  {% assign pubs = site.data.scholar_publications %}
+  {% if pubs %}
+  {% for pub in pubs %}
+  <li class="pb-3">
+    <strong>{{ pub.title }}</strong><br>
+    <span>{{ pub.authors }}</span><br>
+    <span><em>{{ pub.venue }}</em>, {{ pub.year }}</span><br>
+    <span>Cited by: {{ pub.cited_by }}</span>
+  </li>
+  {% endfor %}
+  {% else %}
+  <p>No Google Scholar data yet. Run the sync script.</p>
+  {% endif %}
+</ul>
