@@ -1,9 +1,44 @@
 [
   {
-    "title": "Loading...",
-    "authors": "",
+    "title": "Leveraging an ensemble of EfficientNetV1 and EfficientNetV2 models for classification and interpretation of breast cancer histopathology images",
+    "authors": "Mahdi Azmoodeh-Kalati and Hasti Shabani and Mohammad Sadegh Maghareh and Zeynab Barzegar and Reza Lashgari",
     "venue": "",
-    "year": "",
+    "year": 2025,
+    "cited_by": 3
+  },
+  {
+    "title": "Classification and Interpretation of Histopathology Images: Leveraging Ensemble of EfficientNetV1 and EfficientNetV2 Models",
+    "authors": "Mahdi Azmoodeh Kalati and Hasti Shabani and Mohammad Sadegh Maghareh and Zeynab Barzegar and Reza Lashgari",
+    "venue": "",
+    "year": 2025,
     "cited_by": 0
+  },
+  {
+    "title": "Curriculum-Guided Fine-Tuning for Multimodal VQA in GI Endoscopy (Team Lama4Vision)",
+    "authors": "Mahdi Azmoodeh-Kalati and Mohammad Sadegh Maghareh and Saba Alavi and Reza Lashgari",
+    "venue": "",
+    "year": 2025,
+    "cited_by": 0
+  },
+  {
+    "title": "Data Leakage in Kvasir-VQA-x1: Overlapping Images Threaten Evaluation Validity (Team Lama4Vision)",
+    "authors": "Mahdi Azmoodeh-Kalati and Mohammad Sadegh Maghareh and Saba Alavi and Reza Lashgari",
+    "venue": "",
+    "year": 2025,
+    "cited_by": 0
+  },
+  {
+    "title": "EVALUATION OF SMART CONTRACTS FOCUSED ON OPTIMAL GAS COSTS AND ACCURACY",
+    "authors": "Mohammad Sadegh Maghareh",
+    "venue": "",
+    "year": 2024,
+    "cited_by": 0
+  },
+  {
+    "title": "Namira soccer 2d simulation team description paper 2018",
+    "authors": "Ehsan Asali and Farzin Negahbani and Saeed Tafazzol and Mohammad Sadegh Maghareh and Shahryar Bahmeie and Sina Barazandeh and Shokoofeh Mirian and Mahta Moshkelgosha",
+    "venue": "",
+    "year": 2020,
+    "cited_by": 11
   }
 ]
